@@ -10,70 +10,60 @@
             "title": "童年的终结",
             "version": 1.0,
             "description": "4名角色等级达到80级",
-            "comment": "Reach EQ5 (TL60)",
             "jades": 20
         },
         "4ff3093691dff7d7defef6e2272268dedf9a11a2": {
             "title": "命运之中（一）",
             "version": 1.0,
             "description": "拥有1枚等级达到40级的光锥",
-            "comment": "Reach EQ2 (TL30)",
             "jades": 10
         },
         "28a8d460b26da2484d49b86df70844f1fe47d3c8": {
             "title": "命运之中（二）",
             "version": 1.0,
             "description": "拥有1枚等级达到60级的光锥",
-            "comment": "Reach EQ2 (TL40)",
             "jades": 10
         },
         "67afcc83d69b3996f88a91978ee1bf38d7ebdf38": {
             "title": "命运之中（三）",
             "version": 1.0,
             "description": "拥有1枚等级达到80级的光锥",
-            "comment": "Reach EQ2 (TL60)",
             "jades": 20
         },
         "b2770cef59185388cd86a35afb73d4948cfa1ab8": {
             "title": "圣•遗器（四）",
             "version": 1.0,
             "description": "将1件4星遗器强化至最高等级",
-            "comment": "Max Level = 12",
             "jades": 5
         },
         "ae12a0991dd6ba6f027994a236197d827eea8f95": {
             "title": "圣•遗器（五）",
             "version": 1.0,
             "description": "将1件5星遗器强化至最高等级",
-            "comment": "Max Level = 15",
             "jades": 10
         },
         "d6d95a55a4b8d17dfde9209f6cd312fe8b4bf44a": {
             "title": "知难而上（一）",
             "version": 1.0,
             "description": "均衡等级达到1级",
-            "comment": "Unlocked at TL20",
             "jades": 5
         },
         "4dff75f4b16e045a089607a1a43e49f5138b5deb": {
             "title": "知难而上（二）",
             "version": 1.0,
             "description": "均衡等级达到3级",
-            "comment": "Unlocked at TL40",
             "jades": 10
         },
         "f8069c11b7f7ece9e35d5a8be6f62ea418bc64df": {
             "title": "知难而上（三）",
             "version": 1.0,
             "description": "均衡等级达到6级",
-            "comment": "Unlocked at TL65",
             "jades": 20
         },
         "22a6e8480b48d5f755f0e949a37e2391a93df0d8": {
             "title": "炽燃不灭的琥珀",
             "version": 1.0,
             "description": "开拓者踏上「存护」命途",
-            "comment": "Unlock Fire Trailblazer during the main story",
             "jades": 20
         },
         "e272b7669003781a6bf3417cbfb922cbbc70dacb": {
@@ -86,21 +76,18 @@
             "title": "童年",
             "version": 1.0,
             "description": "任意角色等级达到40级",
-            "comment": "Unlocked at EQ1",
             "jades": 10
         },
         "69fbd0fa82d5b914531faf134d34552bb514a1a3": {
             "title": "在人间",
             "version": 1.0,
             "description": "任意角色等级达到60级",
-            "comment": "Unlocked at EQ3",
             "jades": 10
         },
         "78bb0190e7642f34217f93479ba4349418235b21": {
             "title": "我的大学",
             "version": 1.0,
             "description": "任意角色等级达到80级",
-            "comment": "Unlocked at EQ5 (TL60)",
             "jades": 20
         },
         "3b9bb185701266723a19ba5bad704e9c3eb65c18": {
@@ -137,93 +124,92 @@
             "title": "时间足够你爱",
             "version": 1.0,
             "description": "拥有4枚等级达到80级的光锥",
-            "comment": "Unlocked at EQ5 (TL60)",
             "jades": 20
         }
     },
-    "The Rail Unto the Stars": {
+    "通往群星的轨道": {
         "9c0f8ceeea8e3cf5fe660d589384dbbd4cdb5f53": {
-            "title": "A Professional Onlooker",
+            "title": "殷勤探看",
             "version": 1.0,
-            "description": "When the Wind-Watcher Waches You..",
-            "comment": "Find Qingque, who is \"working hard\" at playing games.",
+            "description": "看风的人在桌旁看你…",
+            "comment": "找到沉迷牌戏的青雀…",
             "jades": 10
         },
         "d57840b5b522bafe5a5179bd83a0e572687e62ce": {
-            "title": "Draconic Opulence",
+            "title": "雄虺蓁蓁",
             "version": 1.0,
-            "description": "Witness Dan Shu's story",
-            "comment": "Discover Dan Shu's true identity.",
+            "description": "见证丹枢的故事",
+            "comment": "发现丹枢的真实身份，见证「药王秘传」的崛起",
             "jades": 10
         },
         "f45d17d850b6da3c4e7be59abfe483c4ed261906": {
-            "title": "Everwinter Night",
+            "title": "永冬城之夜",
             "version": 1.0,
-            "description": "After enduring the snow storm...",
-            "comment": "You have arrived at the city of Belobog.",
+            "description": "永冬城之夜",
+            "comment": "你来到了名为贝洛伯格的城市",
             "jades": 10
         },
         "4c63ce24b127515892af4203901e087f8e9f1120": {
-            "title": "Half the Wizard of Oz",
+            "title": "1/2绿野仙踪",
             "version": 1.0,
-            "description": "Defeat the tin man and the little girl",
-            "comment": "Svarog and Clara became your friends!",
+            "description": "击败铁皮人和小女孩",
+            "comment": "史瓦罗与克拉拉成为你的同伴了！",
             "jades": 10
         },
         "288c077ca138990e08a702b43df3d9c5c25ab2bd": {
-            "title": "Lost World",
+            "title": "失落的世界",
             "version": 1.0,
-            "description": "Discover the secret beneath Jarilo-VI",
-            "comment": "There are people living underground.",
+            "description": "发现雅利洛-Ⅵ地下的秘密",
+            "comment": "竟然有人生活在地下…",
             "jades": 10
         },
         "8422857bab32dc703507426fa3964cd7c3e500e5": {
-            "title": "My Heart Lies With the Stars",
+            "title": "群星，我的归宿",
             "version": 1.0,
-            "description": "Launch a journey into the vast Galaxy",
-            "comment": "Congratulations! You have boarded the Astral Express!",
+            "description": "开启浩瀚银河之旅",
+            "comment": "恭喜！你登上了星穹列车！",
             "jades": 20
         },
         "f23975e1d39ceca8b0682a5f98bf623608e9241e": {
-            "title": "Omniscia Spares None",
+            "title": "法眼无遗",
             "version": 1.0,
-            "description": "What Goes Around Comes Around",
-            "comment": "Successfully capture the Stellaron Hunter Kafka.",
+            "description": "天道好轮回，违法者必被捉",
+            "comment": "成功抓获星核猎手卡芙卡",
             "jades": 10
         },
         "bfd4d7cd7837fde609d0d69bdf4ecf7ed81b9189": {
-            "title": "Prophets Do Not Prophesize",
+            "title": "善易不卜",
             "version": 1.0,
-            "description": "Witness the mystery of the Divination Commission's matrix",
-            "comment": "Interrogate Kafka with the Matrix of Prescience.",
+            "description": "见证太卜司的阵法之秘",
+            "comment": "以穷观阵审问卡芙卡，用洞见对抗预言…",
             "jades": 10
         },
         "fd75f70245f15d218a7e48df5e67b88880d39a1e": {
-            "title": "Sauntering Fox",
+            "title": "有狐绥绥",
             "version": 1.0,
-            "description": "Diplomacy is but a trade of opinions...",
-            "comment": "Confer with the leader(s) of the Xianzhou Luofu.",
+            "description": "所谓的外交，就是彼此交换意见…",
+            "comment": "与仙舟「罗浮」的领袖（们）会晤",
             "jades": 10
         },
         "3db2d99e25d81165e43235e3fa8c47b20a841264": {
-            "title": "Slayer of a Very \"Deer\" Friend",
+            "title": "鹿死谁手",
             "version": 1.0,
-            "description": "Try to walk on the Path of the Hunt...",
-            "comment": "Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\"",
+            "description": "尝试行走「巡猎」的命途…",
+            "comment": "帮助仙舟击败了丰饶孽物「玄鹿」",
             "jades": 10
         },
         "11e189098b49e878f392714f04cd183b34b47147": {
-            "title": "The Deer Hunter",
+            "title": "共逐失鹿",
             "version": 1.0,
-            "description": "The Furnace Endured, the Antlers Obscured",
-            "comment": "Save the Artisanship Commission from the crisis.",
+            "description": "洪炉不灭，鹿鸣止息",
+            "comment": "从危机中拯救工造司",
             "jades": 10
         },
         "b962ae61f6f3f20b512628c6aeadd974d507a98e": {
-            "title": "Winter Is Leaving",
+            "title": "凛冬将逝",
             "version": 1.0,
-            "description": "Make Belobog Great Again, Again",
-            "comment": "Defeat Supreme Guardian Cocolia.",
+            "description": "从我做起，改变贝洛伯格",
+            "comment": "第一步，就是打倒大守护者可可利亚…",
             "jades": 20
         }
     },
