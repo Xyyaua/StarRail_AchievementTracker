@@ -24,7 +24,7 @@ EN:  TODO...
 
 <!-- View the full changelog [here](https://github.com/ChristopherKlay/StarRailTracker/blob/main/changelog.md). -->
 
-## 更新日志
+## Update log
 
 #### 1.0.0
 * Initial GitHub Release
