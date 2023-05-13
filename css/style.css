@@ -134,7 +134,7 @@ topbar:after {
 }
 
 .progress:before {
-	content: "Achievement Progress ";
+	content: "成就进度 ";
 }
 
 entry {
