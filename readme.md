@@ -1,13 +1,20 @@
 # StarRailTracker
 
 <p align="center">
-  <img src="https://github.com/Xyyaua/StarRail_AchievementTracker/blob/main/media/logo.png?raw=true"/>
+  <img src="https://github.com/Xyyaua/StarRail_AchievementTracker/blob/cn/media/logo_os.png?raw=true"/>
 </p>
+
+[EN](./readme.md)|[CN](./doc/README_CN.md)
 
 ### Achievement Tracker for Honkai: Star Rail
 
+### Warning: This's not official release repository, this's just a fork,Please go to [here](https://github.com/ChristopherKlay/StarRailTracker/issues) to explain the issue.
+
 ## How to use
-Simply visit the [live version](https://christopherklay.github.io/StarRailTracker/) of the tracker, or got to `https://christopherklay.github.io/StarRailTracker/`.
+### 1. Github Pages
+- Visit this website  
+CN: `https://xyyaua.github.io/StarRail_AchievementTracker/`  
+EN:  TODO...
 
 ## Features
 - [x] Stores your progress (locally on your device) to keep it even after updates/patches.
@@ -15,7 +22,15 @@ Simply visit the [live version](https://christopherklay.github.io/StarRailTracke
 - [x] Automatic filtering of mutually exclusive achievements.
 - [x] Zero data collected, no trackers & no ads.
 
-View the full changelog [here](https://github.com/ChristopherKlay/StarRailTracker/blob/main/changelog.md).
+<!-- View the full changelog [here](https://github.com/ChristopherKlay/StarRailTracker/blob/main/changelog.md). -->
+
+## 更新日志
+
+#### 1.0.0
+* Initial GitHub Release
+
+#### 1.0.2
+* Update Chinese
 
 ## Found incorrect/missing data, or encountered technical issues?
 
@@ -28,10 +43,3 @@ Development of the project is currently not public. For details see the [contrib
 ## Credits
 * Based on [the version 1.0 data](https://docs.google.com/spreadsheets/d/1zewLHLp-WnpTnIT4TdbSoUvnCtAOq0_p__ZyFsJZAEg/edit#gid=0) collected by [Meow of MeowDB.com](https://meowdb.com/)
 * Logo & Background Art by Cognosphere
-
-## Support this project
-The project is provided entirely for free with no strings attached and time spend on it is covered by donations.
-
-If you want your donations to go towards pulls in Honkai: Star Rail, feel free to iclude that in the comment!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B079EUW)
