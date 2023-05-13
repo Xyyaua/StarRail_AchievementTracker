@@ -3,9 +3,12 @@ loadAchievements();
 
 // Fetch database
 function loadAchievements() {
-	fetch("https://raw.githubusercontent.com/ChristopherKlay/StarRailTracker/main/import/achievements.json")
-		.then((response) => response.json())
-		.then((data) => createEntries(data));
+	fetch("../import/achievements_cn.json")
+	.then((response) => response.json())
+	.then((data) => createEntries(data));
+	// fetch("https://raw.githubusercontent.com/Xyyaua/StarRail_AchievementTracker/main/import/achievements.json")
+	// 	.then((response) => response.json())
+	// 	.then((data) => createEntries(data));
 }
 
 // Create Entries
@@ -215,10 +218,10 @@ function filterSearch(key) {
 }
 
 function toggleFilter(el) {
-	if (el.textContent == 'Show: All') {
-		el.textContent = 'Show: Incomplete'
+	if (el.textContent == '筛选: 所有') {
+		el.textContent = '筛选: 不完整'
 	} else {
-		el.textContent = 'Show: All'
+		el.textContent = '筛选: 所有'
 	}
 	document.body.toggleAttribute('filtered')
 }
